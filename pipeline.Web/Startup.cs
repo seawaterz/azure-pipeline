@@ -15,6 +15,7 @@ namespace pipeline.Web
     {
         public Startup(IConfiguration configuration)
         {
+            //changes made
             Configuration = configuration;
         }
 
